@@ -36,7 +36,7 @@ public class Docente {
 	public int getIdDocente() {
 		return idDocente;
 	}
-
+ 
 	public void setIdDocente(int idDocente) {
 		this.idDocente = idDocente;
 	}
