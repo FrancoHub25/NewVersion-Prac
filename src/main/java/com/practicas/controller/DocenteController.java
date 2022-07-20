@@ -1,4 +1,4 @@
-package com.practicas.prac.controller;
+package com.practicas.controller;
 
 public class DocenteController {
  

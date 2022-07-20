@@ -1,4 +1,4 @@
-package com.practicas.prac.util;
+package com.practicas.util;
 
 public class Constantes {
 

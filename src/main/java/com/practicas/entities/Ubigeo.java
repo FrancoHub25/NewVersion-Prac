@@ -1,4 +1,4 @@
-package com.practicas.prac.entities;
+package com.practicas.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

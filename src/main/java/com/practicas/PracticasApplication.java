@@ -1,4 +1,4 @@
-package com.practicas.prac;
+package com.practicas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
